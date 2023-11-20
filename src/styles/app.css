@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Baloo;
+    overflow: hidden;
+}
+.menu-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3730A2;
+    height: 100vh;
+}
+.list {
+    width: 100%
+}
+.type {
+    background-color: #192130;
+    color: #EEF3FD;
+}
+.box{
+    font-style: #EEF3FD;
+}
+.subHeader {
+    background-color: #3730A2;
+}
